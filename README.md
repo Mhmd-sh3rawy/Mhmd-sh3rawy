@@ -1,56 +1,85 @@
-# 👋 Hi, I’m Mohammed (Mhmd-sh3rawy)
+# 👋 Hi, I’m Mohammed (Mhmd-sh3rawy)  
 
-**Electronics and Communication Engineering Student**  
-**Aspiring AI Researcher | Embedded Systems & Digital IC Design Enthusiast**
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/your-github-userid/your-banner-image.png" alt="Banner" width="80%" />
+</p>
+
+---
+
+**🎓 Electronics and Communication Engineering Student**  
+**🤖 Aspiring AI Researcher | 🔬 Embedded Systems & Digital IC Design Enthusiast**
 
 ---
 
 ## 🧑‍💻 About Me
 
-Hi there! I’m Mohammed, a self-driven engineering student from Egypt passionate about bridging hardware and AI. I spend my time learning analog/digital IC design, exploring AI/ML, and building practical embedded systems. I thrive on understanding the “how” behind tech—whether it's compilers, circuits, or neural networks—and I’m working towards building tools that make design smarter and more efficient.
+Hi there! I’m Mohammed, a self-driven engineering student from Egypt, passionate about bridging hardware and AI.  
+I spend my time learning analog/digital IC design, exploring AI/ML, and building practical embedded systems.  
+I thrive on understanding the “how” behind tech—whether it's compilers, circuits, or neural networks—and I’m working towards building tools that make design smarter and more efficient.
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-- **Programming:** Python, C/C++
-- **Machine Learning:** scikit-learn, pandas, matplotlib, Streamlit
-- **Digital Design:** Verilog, RISC-V, FPGA basics
-- **Embedded Systems:** PlatformIO, ESP32, AVR ATmega32
-- **Tools:** Git, GitHub, Linux (Pop!_OS)
+<p align="center">
+  <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Verilog-ED8B00?style=for-the-badge&logo=verilog&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FPGAs-00979D?style=for-the-badge&logo=fpga&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RISC--V-0095D5?style=for-the-badge&logo=riscv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP32-323232?style=for-the-badge&logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PlatformIO-FF6600?style=for-the-badge&logo=platformio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-Pop!_OS-48B9C7?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-scikit--learn%20%7C%20pandas%20%7C%20matplotlib%20%7C%20Streamlit-FFCA28?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Highlight Projects
 
-- **[Spotify Popularity Prediction](https://github.com/mohammed-abdelbaset/spotify-popularity-prediction)**  
-  ML project using a real-world dataset of 114K+ entries, deployed with Streamlit and ngrok.
-
-- **RISC-V-based Microcontroller**  
-  Ongoing, community-based project integrating a Bluetooth interface.
+<table>
+  <tr>
+    <td width="50%">
+      <b>🎵 <a href="https://github.com/mohammed-abdelbaset/spotify-popularity-prediction">Spotify Popularity Prediction</a></b>
+      <br>
+      <sub>
+        ML project using a real-world dataset of 114K+ entries, deployed with Streamlit and ngrok.
+      </sub>
+    </td>
+    <td width="50%">
+      <b>🖥️ RISC-V-based Microcontroller</b>
+      <br>
+      <sub>
+        Ongoing, community-based project integrating a Bluetooth interface.
+      </sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🌱 Current Focus
 
-- Analog/Digital IC design
+- Analog/Digital IC design & EDA
 - Embedded AI systems
 - Open-source hardware tools
 
 ---
 
-## 🔗 Connect with Me
+## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhmd-elsha3rawy/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Mhmd-sh3rawy)
+<p align="center">
+  <a href="https://www.linkedin.com/in/mhmd-elsha3rawy/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/Mhmd-sh3rawy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
 ---
 
 ## 🎯 Fun Facts
 
-- Obsessed with reverse engineering how things work
-- Inspired by creators like **Ben Eater** and **3Blue1Brown**
-- Dreaming of building a fully open-source, AI-powered design suite
+- 🕵️ Obsessed with reverse engineering how things work
+- 📺 Inspired by creators like <b>Ben Eater</b> and <b>3Blue1Brown</b>
+- 🌟 Dreaming of building a fully open-source, AI-powered design suite
 
 ---
 
@@ -64,5 +93,5 @@ Hi there! I’m Mohammed, a self-driven engineering student from Egypt passionat
 </details>
 
 <!--
-Profile generated by GitHub Copilot for @Mhmd-sh3rawy | Minimal + Professional Theme
+Profile generated by GitHub Copilot for @Mhmd-sh3rawy | Professional + Creative Theme
 -->
