@@ -1,18 +1,68 @@
-<h1 align="center">Hi 👋, I'm Mhmd A. El-sha3rawy</h1>
-<h3 align="center">An Egyptian ECE -Electronics & communication engineering- student. I'm interested in electronics and low level programming.</h3>
+# 👋 Hi, I’m Mohammed (Mhmd-sh3rawy)
 
-- 🌱 I’m currently learning **Embedded C, DSA, and digital IC design**
+**Electronics and Communication Engineering Student**  
+**Aspiring AI Researcher | Embedded Systems & Digital IC Design Enthusiast**
 
-- 📝 I regularly write articles on [https://medium.com/@mhmdelbaset404](https://medium.com/@mhmdelbaset404)
+---
 
-- 📫 How to reach me **https://www.linkedin.com/in/mhmd-elsha3rawy/**
+## 🧑‍💻 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mhmd_sha3rawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mhmd_sha3rawy" height="30" width="40" /></a>
-<a href="https://medium.com/@mhmdelbaset404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mhmdelbaset404" height="30" width="40" /></a>
-</p>
+Hi there! I’m Mohammed, a self-driven engineering student from Egypt passionate about bridging hardware and AI. I spend my time learning analog/digital IC design, exploring AI/ML, and building practical embedded systems. I thrive on understanding the “how” behind tech—whether it's compilers, circuits, or neural networks—and I’m working towards building tools that make design smarter and more efficient.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
+## 🛠️ Skills & Technologies
+
+- **Programming:** Python, C/C++
+- **Machine Learning:** scikit-learn, pandas, matplotlib, Streamlit
+- **Digital Design:** Verilog, RISC-V, FPGA basics
+- **Embedded Systems:** PlatformIO, ESP32, AVR ATmega32
+- **Tools:** Git, GitHub, Linux (Pop!_OS)
+
+---
+
+## 🚀 Featured Projects
+
+- **[Spotify Popularity Prediction](https://github.com/mohammed-abdelbaset/spotify-popularity-prediction)**  
+  ML project using a real-world dataset of 114K+ entries, deployed with Streamlit and ngrok.
+
+- **RISC-V-based Microcontroller**  
+  Ongoing, community-based project integrating a Bluetooth interface.
+
+---
+
+## 🌱 Current Focus
+
+- Analog/Digital IC design
+- Embedded AI systems
+- Open-source hardware tools
+
+---
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhmd-elsha3rawy/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Mhmd-sh3rawy)
+
+---
+
+## 🎯 Fun Facts
+
+- Obsessed with reverse engineering how things work
+- Inspired by creators like **Ben Eater** and **3Blue1Brown**
+- Dreaming of building a fully open-source, AI-powered design suite
+
+---
+
+<details>
+  <summary>✨ More About Me</summary>
+  <ul>
+    <li>Minimalist at heart, always striving for elegant solutions.</li>
+    <li>Enjoys collaborating on community-driven tech initiatives.</li>
+    <li>Keen on making design smarter and more efficient with AI.</li>
+  </ul>
+</details>
+
+<!--
+Profile generated by GitHub Copilot for @Mhmd-sh3rawy | Minimal + Professional Theme
+-->
